@@ -1,4 +1,3 @@
-# Source Generated with Pycdc | Pyxtractor
 import os
 import string
 import sys
