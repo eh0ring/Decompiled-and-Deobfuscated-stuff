@@ -1,4 +1,3 @@
-#yes decomp by Marci
 import os
 import string
 import sys
